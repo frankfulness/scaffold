@@ -2,6 +2,8 @@
 
 > Scaffold a new machine from nothing to engineer readiness.
 
+<img src="./Assets/Setup.png" />
+
 ## System
 
 1. System settings
