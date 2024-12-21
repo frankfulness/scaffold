@@ -2,7 +2,7 @@
 
 > Scaffold a new machine from nothing to engineer readiness.
 
-<img src="./Assets/Setup.png" />
+<img src="./assets/Setup.png" />
 
 ## System
 
