@@ -24,7 +24,7 @@
 5. Install Apps
 
 - Apple Account Sign In
-- Apple iCloud Apps - CursorPro, Magnet, clipy, & Dato
+- Apple iCloud Apps - Flow, CursorPro, Magnet, clipy, & Dato
 - Xcode install
 - Raycast app/productivity launcher
 - f.lux
