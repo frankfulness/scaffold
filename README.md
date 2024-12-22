@@ -1,40 +1,68 @@
-# 🔧 Scaffold Config
+# 📦 Scaffold Config
 
-> Scaffold a new machine from nothing to engineer readiness.
+ > 🚀 Scaffold a new machine from nothing to engineer readiness in 5 steps.
 
-<img src="./assets/Setup.png" />
+### ⚡Maintain the Iron Triangle: Velocity, Quality, & Affordable
 
-## System
+<img src="./assets/Setup.png" alt="Dublin Ireland Classical Library of Trinity College rows of ancient books with ceramic sculpture busts posted at the end cap of each isle. Dark, ancient, and magnificient."/>
 
-1. System settings
+## 🖥️ System
+
+1. 🛠️ System settings
 
 - Trackpad -> Trackpad scroll direction & tap to click modified
 - Keyboard -> Key Repeat Fast and Delay Until Repeat Short
 - General -> Default web browser Microsoft Edge & Appearance Theme Dark
 - Edge Settings -> Make Google default Search Engine Privacy & Services Address Bar edge://settings/search
 - Finder -> Root/Home Directory press Cmd+Shift+. to toggle/show hidden dot files
-- Machine Coding Font -> Dank.sh | 0xProto Nerd Font
+- Code Font -> [Dank Mono](dank.sh) or [Nerdfont's 0xProto Mono](https://www.nerdfonts.com/font-downloads)
 
-## Downloads & Config
+## 💾 Install & Configure
 
-2. Chrome + Spotify (focus during scaffold)
-3. Warp terminal emulator + .zshrc
-3. Homebrew package manager
-4. LazyVim (Neovim LTS), Zellij, Starship, + Implement dotfiles
-5. Install Apps
+2. 📈 Efficient order
 
+- [Chrome](https://www.google.com/chrome/) + [Spotify](https://www.google.com/chrome/) (Stephan Moccio's Fracture on repeat during scaffold)
+- [Warp](https://www.warp.dev/) terminal emulator + .zshrc
+- [Homebrew](https://brew.sh/) package manager
+
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+- [LazyVim](https://www.lazyvim.org/) [(NVIM LTS: v0.10.2)](https://neovim.io/)
+- [Zellij](https://zellij.dev/) (Termial Workspace)
+- [Starship](https://starship.rs/) (Cross-Shell prompt)
+- Implement [dotfiles](https://github.com/frankfulness/dotfiles)
 - Apple Account Sign In
-- Apple iCloud Apps - Flow, CursorPro, Magnet, clipy, & Dato
-- Xcode install
-- Raycast app/productivity launcher
-- f.lux
-- Docker Desktop
-- Figma + FigJam
+- Apple iCloud Apps - [Flow](https://www.flow.app/blog/the-pomodoro-technique) (Pomodoro), [CursorPro](https://appahead.studio/apps/cursor-pro/), [Magnet](https://appahead.studio/apps/cursor-pro/) (Window manager), [clipy](https://github.com/Clipy/Clipy), & [Dato](https://sindresorhus.com/dato) (Supreme Mac Calendar/Clock - Great for remote cross time-zone collaboration)
+- Xcode install (Automatically installs git)
 
-## Finalize
+```
+sudo xcodebuild -license
+xcode-select --install
+```
 
-6. Generate new SSH key + add to GitHub account settings
-7. Set global GitHub username & email
-8. Test by clone of a work repository
-9. Make any tweaks to .zshrc aliases, nvim installs, or tweaks specific to the machine
-10. Download folder that contains profile photo, terminal wallpaper, fonts, etc
+- [OBS Studio](https://obsproject.com/download) + Ensure Shure Mic + Webcam are configured in sound
+- [Raycast](https://www.raycast.com/) shortcut/productivity launcher (Superior to Spotlight w/ Ai)
+- [f.lux](https://justgetflux.com/) (Preserve your eyesight)
+- [Docker Desktop](https://docs.docker.com/desktop/setup/install/mac-install/)
+- [Figma + FigJam](https://www.figma.com/downloa-ds/)
+- [Affinity Photo 2](https://affinity.serif.com/en-us/photo/?srsltid=AfmBOorVeM-YZCqwdVr96g28zwoeVj9EO10ZVqoKRPOYG5pOnH7LhPDQ), [Affinity Design 2](https://affinity.serif.com/en-us/designer/), & [Affinity Publisher 2](https://affinity.serif.com/en-us/publisher/)
+- [Keyboard Maestro](https://www.keyboardmaestro.com/main/) for automation macros
+- [Notion](https://www.notion.com/desktop) Notetaking -> Swapping to [Zettelkasten](https://obsidian.rocks/getting-started-with-zettelkasten-in-obsidian/) in [Obsidian](https://obsidian.rocks/)
+
+## 🎬 Finalize
+
+3. 🗺️ Git
+
+- [Generate new SSH key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+- [Add to GitHub/GitLab/BitBucket account settings](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
+- Set global GitHub username & email
+
+```
+git config --global user.name "Valiant Frank"
+git config --global user.email "Valiant@x.com"
+```
+
+4. 🧑🏻‍🚀 Make any machine use case specific tweaks to .zshrc aliases, nvim plugin installs/lua settings, browser bookmarks, etc
+5. 🎩 Download business folder that contains profile photo varations, wallpapers, banners, & AWS Secrets Manager or AWS Parameter Store (cheaper but less security features)
