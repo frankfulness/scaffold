@@ -30,11 +30,13 @@
 ```
 
 - [LazyVim](https://www.lazyvim.org/) [(NVIM LTS: v0.10.2)](https://neovim.io/)
+  - [2024 Setup Guide on YT helps](https://www.youtube.com/watch?v=6pAG3BHurdM)
 - [Zellij](https://zellij.dev/) (Termial Workspace)
 - [Starship](https://starship.rs/) (Cross-Shell prompt)
 - Implement [dotfiles](https://github.com/frankfulness/dotfiles)
 - Apple Account Sign In
-- Apple iCloud Apps - [Flow](https://www.flow.app/blog/the-pomodoro-technique) (Pomodoro), [CursorPro](https://appahead.studio/apps/cursor-pro/), [Magnet](https://appahead.studio/apps/cursor-pro/) (Window manager), [clipy](https://github.com/Clipy/Clipy), & [Dato](https://sindresorhus.com/dato) (Supreme Mac Calendar/Clock - Great for remote cross time-zone collaboration)
+- Apple iCloud Apps - [Flow](https://www.flow.app/blog/the-pomodoro-technique) (Pomodoro), [App Ahead apps - Keystroke Pro, Cursor Pro, Mirror Magnet, Theine, ](https://appahead.studio/apps/), [Magnet](https://appahead.studio/apps/cursor-pro/) (Window manager), [clipy](https://github.com/Clipy/Clipy), & [Dato](https://sindresorhus.com/dato) (Supreme Mac Calendar/Clock - Great for remote cross time-zone collaboration) [Flow](https://apps.apple.com/us/app/flow-focus-pomodoro-timer/id1423210932) Pomodoro for MacOS, nothing better or cleaner imo
+
 - Xcode install (Automatically installs git)
 
 ```
@@ -50,6 +52,8 @@ xcode-select --install
 - [Affinity Photo 2](https://affinity.serif.com/en-us/photo/?srsltid=AfmBOorVeM-YZCqwdVr96g28zwoeVj9EO10ZVqoKRPOYG5pOnH7LhPDQ), [Affinity Design 2](https://affinity.serif.com/en-us/designer/), & [Affinity Publisher 2](https://affinity.serif.com/en-us/publisher/)
 - [Keyboard Maestro](https://www.keyboardmaestro.com/main/) for automation macros
 - [Notion](https://www.notion.com/desktop) Notetaking -> Swapping to [Zettelkasten](https://obsidian.rocks/getting-started-with-zettelkasten-in-obsidian/) in [Obsidian](https://obsidian.rocks/)
+- [Typora](https://typora.io/) Notes static app for quick and dirty alternative to MacOS Notes
+- [Postan](https://www.postman.com/downloads/) Testing APIs easily with import/export of collections
 
 ## 🎬 Finalize
 
