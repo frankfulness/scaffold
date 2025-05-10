@@ -1,10 +1,10 @@
-# 📦 Scaffold Config
+# 📦 Scaffold from Scratch Machine 🚀
 
  > 🚀 Scaffold a new machine from nothing to engineer readiness in 5 steps.
 
 ### ⚡Maintain the Iron Triangle: Velocity, Quality, & Affordable
 
-<img src="./assets/Setup.png" alt="Dublin Ireland Classical Library of Trinity College rows of ancient books with ceramic sculpture busts posted at the end cap of each isle. Dark, ancient, and magnificient."/>
+![3  fuzzy finder](https://github.com/user-attachments/assets/e58855e1-e841-469c-ba6f-a7e6d2bcbf6f)
 
 ## 🖥️ System
 
@@ -70,3 +70,20 @@ git config --global user.email "Valiant@x.com"
 
 4. 🧑🏻‍🚀 Make any machine use case specific tweaks to .zshrc aliases, nvim plugin installs/lua settings, browser bookmarks, etc
 5. 🎩 Download business folder that contains profile photo varations, wallpapers, banners, & AWS Secrets Manager or AWS Parameter Store (cheaper but less security features)
+
+Warp terminal with Neovim (Panes)
+![1  Neovim + warp panes](https://github.com/user-attachments/assets/4c16e07b-f2f7-4275-81f8-52fc0f09915c)
+
+Lazy git in Neovim
+![2  lazygit](https://github.com/user-attachments/assets/a639f9d6-6caa-48d8-a7cb-d31855eb5415)
+
+Fuzzy Finder in Neovim
+![3  fuzzy finder](https://github.com/user-attachments/assets/e58855e1-e841-469c-ba6f-a7e6d2bcbf6f)
+
+Neovim + Zellij (tmux alternative)
+<img width="1728" alt="4  Neovim + zellij" src="https://github.com/user-attachments/assets/611ee073-7172-4e7e-8c07-33e12c235e43" />
+
+Neovim Pure
+![5  Neovim pure](https://github.com/user-attachments/assets/0ead6282-7794-4339-86c3-4dbcb22c898c)
+
+
